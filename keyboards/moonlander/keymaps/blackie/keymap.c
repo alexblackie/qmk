@@ -1,6 +1,5 @@
 #include QMK_KEYBOARD_H
 #include "version.h"
-#include "keymap_contributions.h"
 #include "keymap_us_international.h"
 
 #define KC_MAC_UNDO LGUI(KC_Z)
